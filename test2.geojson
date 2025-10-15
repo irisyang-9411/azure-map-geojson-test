@@ -41,7 +41,7 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "香港全安路9號",
+        "address": "TAI PO HOSPITAL. 9 CHUEN ON ROAD. TAI PO DISTRICT. NEW TERRITORIES",
         "projectid": 1
       },
       "geometry": {
@@ -112,7 +112,7 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "香港大埔頌雅路6號富亨邨7座亨裕樓G24地下",
+        "address": "BLOCK 7, HENG YUE HOUSE, FU HENG ESTATE, 6, CHUNG NGA ROAD, TAI PO, NT",
         "projectid": 2
       },
       "geometry": {
@@ -191,4 +191,5 @@
       "name": "urn:ogc:def:crs:EPSG::4326"
     }
   }
+
 }
