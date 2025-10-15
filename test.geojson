@@ -79,7 +79,12 @@
     {
       "type": "Feature",
       "properties": {
-        "projectid": 3
+        "projectid": 3,
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#f02424",
+        "fill-opacity": 0.5
       },
       "geometry": {
         "type": "Polygon",
