@@ -35,13 +35,15 @@
       "properties": {
         "id": null,
         "projectid": 1223,
-        "name": null
+        "name": null,
+        "district": "Tai Po District, HK"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "projectid": 2
+        "projectid": 2,
+        "district": "Tai Po District, HK"
       },
       "geometry": {
         "coordinates": [
@@ -55,7 +57,8 @@
     {
       "type": "Feature",
       "properties": {
-        "projectid": 1
+        "projectid": 1,
+        "district": "Tai Po District, HK"
       },
       "geometry": {
         "coordinates": [
@@ -84,7 +87,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#f02424",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "district": "Tai Po District, HK"
       },
       "geometry": {
         "type": "Polygon",
@@ -367,3 +371,4 @@
     }
   }
 }
+
